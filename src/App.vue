@@ -23,6 +23,7 @@
       <strong class="elcapi2 strong" style="color:red;">and design it</strong> easily.
     </h4>
     <h1>awdawdwad</h1>
+    <component :is="currentTab" />
 </div>
 </template>
 
